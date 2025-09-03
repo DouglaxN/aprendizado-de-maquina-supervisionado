@@ -28,7 +28,7 @@ Repositório com materiais, códigos e exercícios desenvolvidos durante a disci
 ```
 
 ## 🛠️ Tecnologias  
-- Python 3.x  
+- Python 
 - Bibliotecas: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `jupyter`  
 
 ## 🚀 Como Executar  
