@@ -17,7 +17,6 @@ Repositório com materiais, códigos e exercícios desenvolvidos durante a disci
 - Aplicações práticas  
 
 ## 📂 Estrutura do Repositório  
-
 ├── data/ # Conjuntos de dados
 ├── notebooks/ # Notebooks Jupyter com exemplos e exercícios
 ├── src/ # Implementações em Python
